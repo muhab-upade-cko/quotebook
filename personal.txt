@@ -1,4 +1,8 @@
 strength through struggle
 
+<<<<<<< HEAD
 
 i like black too
+=======
+i like blue
+>>>>>>> master
